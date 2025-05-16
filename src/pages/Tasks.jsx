@@ -6,7 +6,7 @@ function Tasks() {
     upcoming: [
       { id: 1, title: "Site inspection at Project A", date: "2025-03-20", priority: "high", description: "Complete site inspection and prepare detailed report", assignedBy: "Rajesh Kumar" },
       { id: 2, title: "Quality check for cement delivery", date: "2025-03-22", priority: "medium", description: "Verify quality standards for new cement batch", assignedBy: "Amit Shah" },
-      { id: 3, title: "Team meeting for new project planning", date: "2025-03-25", priority: "low", description: "Discuss project timeline and resource allocation", assignedBy: "Vijay Kumar" }
+      { id: 3, title: "Team meeting for new project planning", date: "2025-03-25", priority: "low", description: "Discuss project timeline and resource allocation", assignedBy: "Vijay Kumar" },{ id: 4, title: "new task", date: "2025-05-25", priority: "low", description: "Discuss project timeline and resource allocation", assignedBy: "Lokesh" }
     ],
     inProgress: [
       { id: 4, title: "Update inventory records", date: "2025-03-19", priority: "medium", description: "Record all new material arrivals and update stock levels", assignedBy: "Suresh Patel" },
